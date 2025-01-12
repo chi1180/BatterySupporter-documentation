@@ -6,6 +6,7 @@
     <variables>
         <custom-favicons>favicon.ico</custom-favicons>
         <header-logo>favicon.svg</header-logo>
+        <include-in-head>./head.html</include-in-head>
     </variables>
     <build-profile instance="hi">
         <variables>
