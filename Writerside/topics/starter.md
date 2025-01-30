@@ -2,7 +2,7 @@
 
 <chapter>
 <title>始めに</title>
-<a href="https://chi1180.github.io/BatterySupporter-homepage/">BatterySupporter</a>
+<a href="https://battery-supporter-homepage.vercel.app/">BatterySupporter</a>
  は、ユーザのタスクをもとに、デバイスの使用についてのサポートをするアプリケーションです。Googleアカウントと連携することで、GoogleTasksのタスクとデバイスの使用状況から、デバイスの使用についてのアドバイスを提供します。
 <note>
 BatterySupporterはweb（Chromeを推奨）及びwindows desktop環境で使用できます。
